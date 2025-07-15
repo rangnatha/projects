@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: gray;
+  
     background-image: url('./images/background.jpg');
 }
 h1, h2, h3 {
